@@ -1,0 +1,3 @@
+#include "icon_resources.h"
+
+MY_ICON		ICON	 adbslogo.ico

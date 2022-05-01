@@ -1,0 +1,23 @@
+// icon_resources.h
+//
+// Last-Edit-By: <> 
+//
+// Description:
+//
+//////////////////////////////////////////////////////////////////////
+
+#ifndef ICON_RESOURCES_H
+#define ICON_RESOURCES_H 1
+
+/* Logos */
+#define MY_ICON 100
+
+
+/* Images */
+#define CHARICHA_LOGO 200
+
+
+#endif // ICON_RESOURCES_H
+//////////////////////////////////////////////////////////////////////
+// $Log:$
+//
